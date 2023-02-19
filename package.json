@@ -1,0 +1,25 @@
+{
+	"name": "mtwin-rand",
+	"version": "0.0.1",
+	"description": "An implementation of mt.Rand",
+	"main": "source/index.js",
+	"scripts": {
+		"test": "jest --config=test/jest.config.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jslba/mtwin-rand.git"
+	},
+	"keywords": [
+		"haxe"
+	],
+	"author": "Angelisium",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jslba/mtwin-rand/issues"
+	},
+	"homepage": "https://github.com/jslba/mtwin-rand",
+	"devDependencies": {
+		"jest": "^29.3.1"
+	}
+}
