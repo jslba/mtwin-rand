@@ -75,4 +75,5 @@ public next(): Int
 ```
 
 [index]: /source/index.js
+[unittests]: /test/rand.test.js
 [PMCG]: https://www.firstpr.com.au/dsp/rand31/
