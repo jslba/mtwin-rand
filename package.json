@@ -20,6 +20,6 @@
 	},
 	"homepage": "https://github.com/jslba/mtwin-rand",
 	"devDependencies": {
-		"jest": "^29.3.1"
+		"jest": "^29.4.3"
 	}
 }
